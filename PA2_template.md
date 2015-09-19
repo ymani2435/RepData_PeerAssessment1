@@ -86,6 +86,7 @@ hist(sum_data$total,
      ylim=c(0, 20), 
      main="Histogram of the total number of steps taken per day\n(NA removed)")
 ```
+![plot of chunk unnamed-chunk-8](figure/unnamed-chunk-8.png) 
 
 #### 2. Calculate and report the mean and median total number of steps taken per day
 ##### The mean and median are computed like
